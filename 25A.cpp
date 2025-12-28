@@ -8,12 +8,9 @@ int main()
 
     cin >> n;
 
-    for (int i = 0; i < n; i++)
+    while (n--)
     {
         int a;
         cin >> a;
     }
-
-    
-
 }
